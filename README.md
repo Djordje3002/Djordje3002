@@ -49,16 +49,6 @@
 - ✈️ [**TripMate**](https://github.com/Djordje3002/TripMate): AI-powered travel booking experience with smart recommendations.
 - 🏋️ [**StreetBeast**](https://github.com/Djordje3002/StreetBeast): iOS timer app concept built for group street training sessions.
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djordje3002&show_icons=true&hide_border=true&rank_icon=github" alt="Djordje GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djordje3002&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
 ## Connect With Me
 - LinkedIn: [djordje-kartaljevic](https://www.linkedin.com/in/djordje-kartaljevic-50b333298/)
 - GitHub: [@Djordje3002](https://github.com/Djordje3002)
