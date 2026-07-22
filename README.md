@@ -2,56 +2,60 @@
 
 # Djordje Kartaljevic
 
-### AI & Apps Engineer
+### AI Engineering & Full-Stack Development
 
-Full-stack developer, mobile app developer, SaaS builder, and AI engineer building practical products from idea to launch.
+I build practical AI systems and product-ready web and mobile applications—from model and API integration to UX, deployment, and iteration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djordje%20Kartaljevic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djordje-kartaljevic-50b333298/)
-[![LoveGift](https://img.shields.io/badge/LoveGift-lovegift.love-EA4C89?style=for-the-badge)](https://www.lovegift.love)
+[![Live Product](https://img.shields.io/badge/Live%20Product-LoveGift-EA4C89?style=for-the-badge)](https://www.lovegift.love)
 [![GitHub](https://img.shields.io/badge/GitHub-Djordje3002-181717?style=for-the-badge&logo=github)](https://github.com/Djordje3002)
 
 </div>
 
 ---
 
-## What I Build
+## What I Work On
 
-I focus on AI-powered apps, SaaS products, and mobile experiences that are useful in the real world, not just demos.
+- **AI engineering:** RAG, structured LLM outputs, computer vision, evaluation, automation, and tool-using workflows
+- **Full-stack products:** React, Next.js, TypeScript, Python, Flask, Node.js, APIs, authentication, billing, and background jobs
+- **Mobile applications:** Swift, SwiftUI, UIKit, Kotlin, Firebase-backed architecture, and product-focused UX
+- **Product delivery:** turning an idea into a testable, deployable product with clear boundaries and measurable behavior
 
-| Area | What I work on |
-| --- | --- |
-| AI products | AI-assisted workflows, automation, product copilots, and intelligent user experiences |
-| Web SaaS | React, Next.js, Firebase, Vercel, payments, authentication, dashboards, and launch-ready web apps |
-| Mobile apps | SwiftUI, iOS product flows, Kotlin Android apps, Firebase-backed app architecture |
-| Product delivery | MVPs, startup prototypes, clean UI, deployment, testing, and iteration |
+## Selected Work
 
-## Featured Work
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [LoveGift](https://www.lovegift.love) | A live SaaS-style product with personalization, checkout, share links, QR delivery, and production deployment | Web, auth, payments, hosting |
+| [Audiobook Pipeline](https://github.com/Djordje3002/audiobook_pipeline) | A creator-focused AI workflow for transcription, translation, multilingual narration, jobs, storage, and billing | Python, Flask, React, OpenAI, ElevenLabs, Redis/RQ |
+| [IBM RAG & Agentic AI Showcase](https://github.com/Djordje3002/ibm-rag-agentic-ai-showcase) | Reliable extraction and agentic-AI coursework with typed outputs, validation, tests, and CI | Python, Pydantic, watsonx.ai, Granite |
+| [Real-Time Gender Fusion](https://github.com/Djordje3002/realtime-gender-fusion) | Real-time computer-vision fusion with confidence weighting, tracking, smoothing, and uncertainty handling | PyTorch, OpenCV, MediaPipe, YOLO |
+| [OutZone](https://github.com/Djordje3002/OutZone) | Product design for gamified social-confidence challenges and AI-assisted reflection | iOS, SwiftUI, product design |
+| [TihiHeroj](https://github.com/Djordje3002/TihiHeroj) | Privacy-conscious violence-reporting flows, localization, and sensitive mobile UX | Swift, SwiftUI, Firebase |
 
-### [LoveGift](https://www.lovegift.love)
+## How I Build
 
-Interactive love-letter pages with templates, personalization, preview, checkout, share links, and QR support. Built as a real SaaS-style product with authentication, hosting, payments, and production deployment.
+I care about more than making a demo run. My projects aim to include:
 
-### TihiHeroj
-
-SwiftUI app concept for safer violence reporting in Serbia. Focused on practical mobile UX, sensitive user flows, and fast access to important actions.
+- explicit architecture and product boundaries
+- reproducible setup and configuration
+- validation, tests, and automated checks where the repository supports them
+- honest limitations and responsible-use notes for AI systems
+- screenshots, demos, or live links that make the result easy to evaluate
 
 ## Core Stack
 
-**AI & backend:** Python, Node.js, Firebase Functions, APIs, automation workflows  
+**AI and backend:** Python, Flask, Node.js, REST APIs, RAG, LLM workflows, computer vision  
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
 **Mobile:** Swift, SwiftUI, UIKit, Kotlin, Android  
-**Platforms:** Firebase, Vercel, GitHub, Gumroad, Supabase  
-**Product:** SaaS architecture, auth, payments, responsive UI, deployment
+**Infrastructure:** Firebase, Supabase, Vercel, Redis/RQ, GitHub Actions  
+**Product:** SaaS architecture, authentication, payments, responsive UI, deployment
 
-## Current Focus
+## Building Next
 
-- Building AI-first apps and product automation
-- Shipping SaaS products with clean UX and real payment flows
-- Improving mobile apps across iOS and Android
-- Turning ideas into live, usable products quickly
+I am developing deeper skills in graph-based agent systems—especially LangGraph workflows with explicit state, dependable tool contracts, evaluation, memory, and human-in-the-loop controls.
 
-## Contact
+## Connect
 
-- LinkedIn: [linkedin.com/in/djordje-kartaljevic-50b333298](https://www.linkedin.com/in/djordje-kartaljevic-50b333298/)
-- Product: [lovegift.love](https://www.lovegift.love)
-- GitHub: [@Djordje3002](https://github.com/Djordje3002)
+- [LinkedIn](https://www.linkedin.com/in/djordje-kartaljevic-50b333298/)
+- [LoveGift](https://www.lovegift.love)
+- [GitHub](https://github.com/Djordje3002)
