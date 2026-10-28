@@ -105,6 +105,21 @@ Privacy-conscious violence-reporting flows, localization, and sensitive mobile U
 </tr>
 </table>
 
+## Machine learning portfolio
+
+[Explore the full ML portfolio →](https://github.com/Djordje3002/ml-portfolio)
+
+Six working projects progress from regression foundations to a validated model-serving API. Each includes real benchmark data, reproducible training, measured baseline comparisons, an executed notebook, detailed documentation, tests, and CI.
+
+| # | Project | Focus |
+| ---: | --- | --- |
+| 01 | [Wine Quality Lab](https://github.com/Djordje3002/wine-quality-ml) | Grouped validation, regression, feature analysis |
+| 02 | [SMS Spam Detector](https://github.com/Djordje3002/sms-spam-detector) | TF-IDF, threshold selection, precision–recall |
+| 03 | [Bike Demand Forecasting](https://github.com/Djordje3002/bike-demand-forecasting) | Past-only features, rolling backtests, seasonal baselines |
+| 04 | [MovieLens Recommender](https://github.com/Djordje3002/movielens-recommender) | Matrix factorization, ranking, cold-start evaluation |
+| 05 | [Digits CNN Lab](https://github.com/Djordje3002/digits-cnn-lab) | PyTorch, checkpoint selection, visual error analysis |
+| 06 | [Concrete Strength MLOps](https://github.com/Djordje3002/concrete-strength-mlops) | FastAPI, uncertainty intervals, validation, monitoring |
+
 ## Engineering approach
 
 I care about more than making a demo run. My strongest repositories aim for explicit architecture, reproducible setup, validation and automated checks, honest limitations, and a result that another engineer can evaluate quickly.
